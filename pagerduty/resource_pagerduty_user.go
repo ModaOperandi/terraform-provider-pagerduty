@@ -1,7 +1,6 @@
 package pagerduty
 
 import (
-	"fmt"
 	"log"
 
 	"github.com/hashicorp/terraform/helper/schema"
